@@ -35,8 +35,9 @@ header {
   gap: 32px;
 }
 
-h1 {
+.header-logo {
   font-size: 24px;
+  font-weight: 900;
   color: #F9FAF8;
 }
 
@@ -74,7 +75,7 @@ footer {
   gap: 16px;
 }
 
-.hero h2 {
+h1 {
   font-size: 48px;
   font-weight: 900;
   color: #F9FAF8;
