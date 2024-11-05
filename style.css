@@ -158,3 +158,10 @@ figcaption {
   padding: 64px;
 }
 
+blockquote {
+  font-size: 32px;
+  font-style: italic;
+  color: #1F2937;
+  margin-bottom: 16px;
+}
+
