@@ -90,6 +90,12 @@ footer {
   flex: 1;
 }
 
+.hero button {
+  color: #F9FAF8;
+  font-weight: 900;
+  background-color: #3882F6;
+  border: 1px solid #3882F6;
+}
 
 .hero-image-container {
   flex: 1;
