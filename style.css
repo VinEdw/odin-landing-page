@@ -80,3 +80,17 @@ footer {
   margin: 16px 0;
 }
 
+.hero-text {
+  flex: 1;
+}
+
+
+.hero-image-container {
+  flex: 1;
+  display: flex;
+  background-color: #6D747D;
+  padding: 16px;
+  color: #E5E7EB;
+  justify-content: center;
+  align-items: center;
+}
