@@ -43,6 +43,8 @@ header {
 
 nav ul {
   display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
   list-style: none;
   gap: 16px
 }
