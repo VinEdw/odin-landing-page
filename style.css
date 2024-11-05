@@ -84,6 +84,11 @@ footer {
   color: #E5E7EB;
   justify-content: center;
   align-items: center;
+  gap: 0.5em;
+}
+
+footer a {
+  color: #E5E7EB;
 }
 
 /* || Hero */
