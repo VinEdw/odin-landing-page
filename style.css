@@ -65,6 +65,14 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover {
+  color: #3882F6;
+}
+
+nav a:active {
+  filter: brightness(0.5);
+}
+
 /* || Footer */
 
 footer {
