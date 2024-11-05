@@ -58,3 +58,13 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
+/* || Hero */
+
+.hero {
+  display: flex;
+  background-color: #1F2937;
+  padding: 64px 64px;
+  gap: 16px;
+}
+
