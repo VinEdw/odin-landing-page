@@ -42,3 +42,15 @@ nav a {
   color: #E5E7EB;
   text-decoration: none;
 }
+
+/* || Footer */
+
+footer {
+  display: flex;
+  background-color: #1F2937;
+  padding: 16px 64px;
+  font-size: 12px;
+  color: #E5E7EB;
+  justify-content: center;
+  align-items: center;
+}
