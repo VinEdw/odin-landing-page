@@ -19,6 +19,12 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+button {
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 8px 32px;
+}
+
 /* || Header */
 
 header {
