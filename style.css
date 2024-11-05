@@ -22,3 +22,8 @@ header {
   gap: 32px;
 }
 
+h1 {
+  font-size: 24px;
+  color: #F9F9F8;
+}
+
