@@ -151,3 +151,10 @@ figcaption {
   color: #505A68;
 }
 
+/* || Testimonial */
+
+.testimonial {
+  background-color: #E5E7EB;
+  padding: 64px;
+}
+
