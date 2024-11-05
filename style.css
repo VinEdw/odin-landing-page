@@ -11,3 +11,14 @@ html {
   margin: 0;
   padding: 0;
 }
+
+/* || Header styling */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1F2937;
+  padding: 16px 64px;
+  gap: 32px;
+}
+
