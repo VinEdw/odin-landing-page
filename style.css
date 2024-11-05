@@ -33,3 +33,8 @@ nav ul {
   gap: 16px
 }
 
+nav a {
+  font-size: 18px;
+  color: #E5E7EB;
+  text-decoration: none;
+}
